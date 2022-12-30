@@ -1,0 +1,27 @@
+List
+1. Ordered elements 
+2. Elements can be changed
+3. Can have duplicate values
+4. Functionalities
+copy, append, insert, pop, index, remove, sort, count, clear, extend
+
+Tuple
+1. Ordered elements
+2. Elements are unchangeable
+3. Allow duplicates
+
+Set
+1. Unindexed and unoredered elements
+2. Cannot have duplicate elements
+3. Cannot update an exisiting element in a set
+4. Functionalities
+add, copy, remove, discard, pop, difference, difference_update, symmetric_difference, symmetric_difference_update,
+isdisjoint, update, union, intersection, intersection_update, issuperset, issubset
+
+Dictionary
+1. Items are key value pairs
+2. Ordered in the latest version of Python
+3. Cannot have duplicates
+4. Changeable
+5. Functionalities
+copy, clear, pop, popitem, update, setdefault, get, keys, values, items

@@ -1,0 +1,13 @@
+if else loop
+1. Are used to check a condition/s
+2. if else ladder
+3. can be used for ternary operations
+
+while loop
+
+1. Keeps running in the loop as long as the condition is true
+2. Breaks the loop on either by using break statement or making the condition as false
+
+for loop
+1. Similar to while loop 
+2. Runs the loop as long as the condition is true and increments or decrements automatically to reach the terminating condition

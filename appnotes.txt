@@ -1,0 +1,7 @@
+1. books, authors and readers
+2. Book class
+3. Person class
+4. Author class
+5. Reader class
+6. External package
+7. File storage

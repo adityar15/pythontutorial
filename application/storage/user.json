@@ -1,0 +1,6 @@
+{
+  "data": [
+    { "name": "Aditya", "email": "aditya@adiranids.com", "role": "author", "id": "b5b5ae0f-e522-41eb-996d-2d0ff9d801c3" },
+    { "name": "Aditya", "email": "aditya@adiranids.com", "role": "reader", "id": "09797ded-bfcf-4ae5-b6b6-ee0124674841", "books": [] }
+  ]
+}
